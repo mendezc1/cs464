@@ -1,3 +1,3 @@
-# cs464
-A repo for the class cs464
+
+#Open Source Software CS464 Repo
 Created by Christopher Mendez
